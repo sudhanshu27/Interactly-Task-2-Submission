@@ -1,7 +1,7 @@
 # Interactly-Task-2-Submission  
 **Interactly – BACKEND DEVELOPER – Coding Task - 2**  
   
-**Task 1:** Create a Nodejs script to open any given website URL in a headless browser, scroll down, and record it as a video.  
+**Task 2:** Create a Nodejs script to open any given website URL in a headless browser, scroll down, and record it as a video.  
   
 **Solution:**  
    
