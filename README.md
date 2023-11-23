@@ -9,7 +9,10 @@
   
 This project demonstrates how to use Puppeteer to record a screen session in a headless browser, scroll through a webpage, and save the recording as an output.mp4 file.  
   
-**Getting Started:**  
+***Output video link:***  
+https://drive.google.com/file/d/1D-tIsHLuSrUMGE17BLmQEpvbVXDc15-P/view?usp=sharing  
+  
+**Getting Started:**
 Follow these instructions to set up and run the project on your local machine.  
 
 **Prerequisites**  
