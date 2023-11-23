@@ -22,13 +22,14 @@ git clone <repository_url>
 Install the dependencies.  
 npm install  
   
-**Usage:**
+**Usage:**  
 Update the URL in app.js to the desired webpage you want to record.  
 Adjust the scroll speed or distance in the page.evaluate() function in app.js if needed.  
   
 **Run the application:**
 node app.js
 
-After execution, check for the output.mp4 file in the project directory. This file will contain the recorded screen session.  
+After execution, check for the output.mp4 file in the project directory.  
+This file will contain the recorded screen session.  
   
 ----------------X----------END-----------X------------------
